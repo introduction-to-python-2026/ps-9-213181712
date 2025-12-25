@@ -1,2 +1,2 @@
-path: "netas_model.joblib
+path: "netas_model.joblib"
 features: ['MDVP:Shimmer(dB)', 'MDVP:Fo(Hz)']
