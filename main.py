@@ -23,4 +23,4 @@ print(f"Accuracy: {accuracy}")
 
 import joblib
 
-joblib.dump(model, 'Netas_model.joblib')
+joblib.dump(model, 'netas_model.joblib')
